@@ -1,4 +1,4 @@
-# Hi, I'm Sahith 👋
+# Hi, I'm S Sahith Somasundar
 
 I build agentic AI systems and full-stack apps: LLM agents, RAG pipelines,
 RL environments, and the FastAPI/React products around them.
