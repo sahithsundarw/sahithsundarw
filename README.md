@@ -11,7 +11,7 @@
   <a href="https://sahith-builds.netlify.app"><img src="https://img.shields.io/badge/Portfolio-sahith--builds.netlify.app-7c5cff?style=for-the-badge" alt="Portfolio"></a>
 </p>
 
-## 🚀 Best work
+## Best work
 
 | Project | What it does | Built with |
 |---|---|---|
@@ -20,7 +20,7 @@
 | **[Semiconductor image restoration](https://github.com/sahithsundarw/bunker_backer)** | 1.39M-parameter NAFSR network: 29.59 dB PSNR on held-out data, beats a U-Net baseline. README documents failed experiments. | PyTorch · LPIPS |
 | **[Atlas](https://github.com/sahithsundarw/Atlas)** | Travel assistant on LangGraph with RAG, parallel tool calls, guardrails and a 25-case eval harness. | LangGraph · ChromaDB · FastAPI · React |
 
-## 🧰 Stack
+## Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -31,7 +31,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## 📫 Reach me
+## Reach me
 
 [sahith-builds.netlify.app](https://sahith-builds.netlify.app)
 
